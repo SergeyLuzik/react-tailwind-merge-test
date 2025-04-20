@@ -5,6 +5,6 @@ import { App } from "./App";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <App className="p-10 pt-5" />
+    <App className="pt-2 p-10 pt-5" />
   </StrictMode>
 );
